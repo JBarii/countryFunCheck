@@ -6,7 +6,7 @@ interrogate the data once the user has given the country.
 The application has utilized the following public APIs:
 1.CountryAPI to search for countries data
 2.Google Maps to display the searched country on a map
-3.API AI to enable voice based enquiry about weather and other interesting things about the searched country.
+3.API AI and Wit API to enable voice based enquiry about weather and other interesting things about the searched country.
 
 The application uses asynch calls in android to handle UI latency.
 It also employs background threads when making calls to the various APIs.
